@@ -22,6 +22,7 @@ const Top = styled.div`
 
 const TopLeftPadding = styled.div`
     flex-basis: 15%;
+    gap: 10px;
 `;
 
 const TopImageContainer = styled.div`
@@ -33,6 +34,7 @@ const TopImageContainer = styled.div`
 
 const TopRightPadding = styled.div`
     flex-basis: 75%;
+    gap: 10px;
 `;
 
 const Bottom = styled.div`
@@ -40,8 +42,8 @@ const Bottom = styled.div`
 `;
 
 const TopImage = styled.img`
-    height: 40px;
-    width: 40px;
+    max-width: 100%;
+    height: auto;
     border-radius: 30%;
 `;
 

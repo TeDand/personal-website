@@ -16,11 +16,11 @@ const CenterLine = styled.div`
 `;
 
 const LeftPadding = styled.div`
-    width: 45%;
+    width: 47.5%;
 `;
 
 const RightPadding = styled.div`
-    width: 45%;
+    width: 47.5%;
 `;
 
 const TimelineDivider = () => {
