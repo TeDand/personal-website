@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.9fd8cacc.chunk.css",
-    "main.js": "/personal-website/static/js/main.486680e1.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.486680e1.chunk.js.map",
-    "runtime-main.js": "/personal-website/static/js/runtime-main.3dd64993.js",
-    "runtime-main.js.map": "/personal-website/static/js/runtime-main.3dd64993.js.map",
-    "static/js/2.b5f49f5e.chunk.js": "/personal-website/static/js/2.b5f49f5e.chunk.js",
-    "static/js/2.b5f49f5e.chunk.js.map": "/personal-website/static/js/2.b5f49f5e.chunk.js.map",
-    "static/js/3.956b0561.chunk.js": "/personal-website/static/js/3.956b0561.chunk.js",
-    "static/js/3.956b0561.chunk.js.map": "/personal-website/static/js/3.956b0561.chunk.js.map",
+    "main.css": "/personal-website/static/css/main.9d76db6d.css",
+    "main.js": "/personal-website/static/js/main.35416e3a.js",
+    "static/js/787.8dcba52f.chunk.js": "/personal-website/static/js/787.8dcba52f.chunk.js",
+    "static/media/imperial.png": "/personal-website/static/media/imperial.6550859474e0908e75ca.png",
+    "static/media/tewke.png": "/personal-website/static/media/tewke.9f2ba59fb803135a5463.png",
+    "static/media/cv_Tejas_Dandawate.pdf": "/personal-website/static/media/cv_Tejas_Dandawate.598033db097d3223c63a.pdf",
+    "static/media/gam.png": "/personal-website/static/media/gam.cf0c3180f0946e6fb5db.png",
+    "static/media/oxfam.jpg": "/personal-website/static/media/oxfam.e23993570c2840e5a295.jpg",
     "index.html": "/personal-website/index.html",
-    "static/css/main.9fd8cacc.chunk.css.map": "/personal-website/static/css/main.9fd8cacc.chunk.css.map",
-    "static/js/2.b5f49f5e.chunk.js.LICENSE.txt": "/personal-website/static/js/2.b5f49f5e.chunk.js.LICENSE.txt",
-    "static/media/cv_Tejas_Dandawate.598033db.pdf": "/personal-website/static/media/cv_Tejas_Dandawate.598033db.pdf",
-    "static/media/gam.cf0c3180.png": "/personal-website/static/media/gam.cf0c3180.png",
-    "static/media/imperial.65508594.png": "/personal-website/static/media/imperial.65508594.png",
-    "static/media/oxfam.e2399357.jpg": "/personal-website/static/media/oxfam.e2399357.jpg",
-    "static/media/tewke.9f2ba59f.png": "/personal-website/static/media/tewke.9f2ba59f.png"
+    "main.9d76db6d.css.map": "/personal-website/static/css/main.9d76db6d.css.map",
+    "main.35416e3a.js.map": "/personal-website/static/js/main.35416e3a.js.map",
+    "787.8dcba52f.chunk.js.map": "/personal-website/static/js/787.8dcba52f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3dd64993.js",
-    "static/js/2.b5f49f5e.chunk.js",
-    "static/css/main.9fd8cacc.chunk.css",
-    "static/js/main.486680e1.chunk.js"
+    "static/css/main.9d76db6d.css",
+    "static/js/main.35416e3a.js"
   ]
 }
