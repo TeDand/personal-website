@@ -1,7 +1,7 @@
-import tewkeLogo from '../../../../assets/experience/tewke.png'
-import imperialLogo from '../../../../assets/experience/imperial.png'
-import gamLogo from '../../../../assets/experience/gam.png'
-import oxfamLogo from '../../../../assets/experience/oxfam.jpg'
+import tewkeLogo from '../../../assets/experience/tewke.png'
+import imperialLogo from '../../../assets/experience/imperial.png'
+import gamLogo from '../../../assets/experience/gam.png'
+import oxfamLogo from '../../../assets/experience/oxfam.jpg'
 
 export const ExperienceTimelineItems = [{
     date: 'April 2021 - September 2021',
