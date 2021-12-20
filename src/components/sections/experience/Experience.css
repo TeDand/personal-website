@@ -1,10 +1,29 @@
+.vertical-timeline-element-content-arrow {
+  border: 7px solid transparent;
+  border-right: 7px solid var(--highlightColour);
+  ;
+}
+
 .vertical-timeline-element-content {
   box-shadow: 0 0em 0em 0 rgba(0, 0, 0, 0.25),
     0 0em 0em 0 rgba(0, 0, 0, 0.15) !important;
   padding: 2em 3em !important;
   background-color: var(--backgroundColour);
+  outline-color: var(--highlightColour);
 }
 
 .vertical-timeline-element-icon {
   box-shadow: 0 0 0 0px #1976d2, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
+
+/* .vertical-timeline.vertical-timeline-custom-line::before {
+  background: var(--highlightColour);
+} */
+
+/* .vertical-timeline.vertical-timeline-custom-line .vertical-timeline-element--work .vertical-timeline-element-icon {
+  box-shadow: 0 0 0 4px #1976d2, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+} */
+
+/* .vertical-timeline.vertical-timeline-custom-line .vertical-timeline-element--education .vertical-timeline-element-icon {
+  box-shadow: 0 0 0 4px #c2185b, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+} */
