@@ -25,11 +25,11 @@ const RightColumn = styled.div`
 `;
 
 const Date = styled.p`
-    font-size: 3vw;
+    font-size: clamp(2pt, 10pt, 10pt);;
 `;
 
 const Qualification = styled.p`
-    font-size: 5vw;
+    font-size: clamp(7pt, 18pt, 18pt);
 `;
 
 const Institution = styled.p`

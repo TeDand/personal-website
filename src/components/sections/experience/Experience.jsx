@@ -12,11 +12,11 @@ const CompanyLogo = styled.img`
 `;
 
 const Date = styled.p`
-    font-size: 3vw;
+    font-size: clamp(2pt, 10pt, 10pt);
 `;
 
 const Position = styled.h3`
-    font-size: 5vw;
+    font-size: clamp(7pt, 18pt, 18pt);
     left: 0;
     width: 50%;
     border-bottom: 2px solid var(--highlightColour);
