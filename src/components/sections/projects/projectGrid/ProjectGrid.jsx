@@ -1,25 +1,44 @@
 import React from 'react'
+import { Container, Row, Col } from 'react-grid-system';
 import styled from 'styled-components'
 
-const Grid = styled.div`
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
-    grid-gap: 1em;
-`;
-
 const GridTile = styled.div`
-    background-color: #ffffff;
-    height: 50px;
+    background-color: var(--backgroundColour);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 3pt;
+    border-color: var(--highlightColour);
+    width: 20vw;
 `;
 
 const ProjectGrid = () => {
     return (
-        <Grid>
-            <GridTile>Poo</GridTile>
-            <GridTile>Pee</GridTile>
-            <GridTile>Pie</GridTile>
-            <GridTile>Pop</GridTile>
-        </Grid>
+        <Container>
+            <Row>
+                <Col>
+                    <GridTile>
+                        One of three columns
+                    </GridTile>
+                </Col>
+                <Col>
+                    One of three columns
+                </Col>
+                <Col>
+                    One of three columns
+                </Col>
+            </Row>
+            <Row>
+                <Col>
+                    One of three columns
+                </Col>
+                <Col>
+                    One of three columns
+                </Col>
+                <Col>
+                    One of three columns
+                </Col>
+            </Row>
+        </Container >
     )
 }
 

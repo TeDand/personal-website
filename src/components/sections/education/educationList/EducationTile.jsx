@@ -25,7 +25,7 @@ const RightColumn = styled.div`
 `;
 
 const Date = styled.p`
-    font-size: clamp(2pt, 10pt, 10pt);;
+    font-size: clamp(2pt, 10pt, 10pt);
 `;
 
 const Qualification = styled.p`
