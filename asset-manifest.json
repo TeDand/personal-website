@@ -1,20 +1,28 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.d60e5c3f.css",
-    "main.js": "/personal-website/static/js/main.2dfe4229.js",
+    "main.css": "/personal-website/static/css/main.4f751e17.css",
+    "main.js": "/personal-website/static/js/main.2e30d013.js",
     "static/js/787.8dcba52f.chunk.js": "/personal-website/static/js/787.8dcba52f.chunk.js",
+    "static/media/fridgebob.jpg": "/personal-website/static/media/fridgebob.35464b3372dadcf1e9a0.jpg",
+    "static/media/fpgaKeyboard.jpg": "/personal-website/static/media/fpgaKeyboard.5b74cc6f1c992189fd15.jpg",
     "static/media/imperial.png": "/personal-website/static/media/imperial.6550859474e0908e75ca.png",
+    "static/media/youngEnterprise.jpg": "/personal-website/static/media/youngEnterprise.6cc955ccf756f0921d8b.jpg",
+    "static/media/neuralNet.jpg": "/personal-website/static/media/neuralNet.e0ea953ac2144e500e7b.jpg",
     "static/media/tewke.png": "/personal-website/static/media/tewke.9f2ba59fb803135a5463.png",
     "static/media/cv_Tejas_Dandawate.pdf": "/personal-website/static/media/cv_Tejas_Dandawate.598033db097d3223c63a.pdf",
+    "static/media/compiler.jpg": "/personal-website/static/media/compiler.aebb5898e9121f92cf84.jpg",
+    "static/media/epq.jpg": "/personal-website/static/media/epq.817606f6b9771b854748.jpg",
     "static/media/gam.png": "/personal-website/static/media/gam.cf0c3180f0946e6fb5db.png",
+    "static/media/rayTracing.jpg": "/personal-website/static/media/rayTracing.2d96c3e6d0cc557863d2.jpg",
     "static/media/oxfam.jpg": "/personal-website/static/media/oxfam.e23993570c2840e5a295.jpg",
+    "static/media/keyboard.jpg": "/personal-website/static/media/keyboard.c9293a2d5c10a4fb046e.jpg",
     "index.html": "/personal-website/index.html",
-    "main.d60e5c3f.css.map": "/personal-website/static/css/main.d60e5c3f.css.map",
-    "main.2dfe4229.js.map": "/personal-website/static/js/main.2dfe4229.js.map",
+    "main.4f751e17.css.map": "/personal-website/static/css/main.4f751e17.css.map",
+    "main.2e30d013.js.map": "/personal-website/static/js/main.2e30d013.js.map",
     "787.8dcba52f.chunk.js.map": "/personal-website/static/js/787.8dcba52f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d60e5c3f.css",
-    "static/js/main.2dfe4229.js"
+    "static/css/main.4f751e17.css",
+    "static/js/main.2e30d013.js"
   ]
 }
