@@ -4,7 +4,7 @@ import '../Section.css'
 
 const Projects = () => {
     return (
-        <div className='Section Filled' id='projects'>
+        <div className='Section' id='projects'>
             <h1 className='Heading'>
                 Projects
             </h1>

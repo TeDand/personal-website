@@ -35,7 +35,7 @@ const ExperienceTimeline = () => {
             {
                 ExperienceTimelineItems.map((item, index) => {
                     return (
-                        <VerticalTimelineElement key={index} icon={<CompanyLogo src={item.logo} alt="companyLogo" />}>
+                        <VerticalTimelineElement key={index} icon={<CompanyLogo src={item.logo} alt={item.company} />}>
                             <Position>
                                 {item.position}
                             </Position>
