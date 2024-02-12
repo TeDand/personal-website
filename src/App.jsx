@@ -11,7 +11,7 @@ import Contact from './components/sections/contact/Contact';
 
 function App() {
   return (
-    <Router basename="/personal-website">
+    <Router basename="/personal-website/">
       <div className="App">
         <Routes />
       </div>
