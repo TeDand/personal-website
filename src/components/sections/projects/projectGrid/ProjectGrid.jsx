@@ -66,8 +66,8 @@ const Description = styled.p`
 const ProjectGrid = () => {
     return (
         <Grid>
-            {ProjectGridItems.map(item => (
-                <GridTile>
+            {ProjectGridItems.map((item, index) => (
+                <GridTile key={index}>
                     <Title>
                         {item.name}
                     </Title>
@@ -78,9 +78,9 @@ const ProjectGrid = () => {
                         {item.description}
                     </Description>
                     {/* <LinkWrapper> */}
-                    {item.links.map(link => (
+                    {item.links.map((link, index) => (
                         // TODO: format nicely
-                        <Link>
+                        <Link key={index}>
                             <a href={link.link}>{link.linkNamme}</a>
                         </Link>
                     ))}

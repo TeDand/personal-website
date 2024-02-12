@@ -31,7 +31,7 @@ const Navbar = () => {
                     onClick={handleCloseNavBar}
                 >TD</Link>
             </h1>
-            <div className='MenuIcon' onClick={handleToggleNavBar}>
+            <div onClick={handleToggleNavBar}>
                 {toggleMobileNavbar ? <VscChromeClose className='NavbarDisplayIcons' /> : <VscListSelection className='NavbarDisplayIcons' />}
             </div>
             <ul className={toggleMobileNavbar ? 'NavMenu Active' : 'NavMenu'}>
