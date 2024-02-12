@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.4f751e17.css",
-    "main.js": "/personal-website/static/js/main.2e30d013.js",
-    "static/js/787.8dcba52f.chunk.js": "/personal-website/static/js/787.8dcba52f.chunk.js",
+    "main.css": "/personal-website/static/css/main.f7ebd119.css",
+    "main.js": "/personal-website/static/js/main.f14b72a3.js",
+    "static/js/592.61afcd48.chunk.js": "/personal-website/static/js/592.61afcd48.chunk.js",
     "static/media/fridgebob.jpg": "/personal-website/static/media/fridgebob.35464b3372dadcf1e9a0.jpg",
     "static/media/fpgaKeyboard.jpg": "/personal-website/static/media/fpgaKeyboard.5b74cc6f1c992189fd15.jpg",
     "static/media/imperial.png": "/personal-website/static/media/imperial.6550859474e0908e75ca.png",
     "static/media/youngEnterprise.jpg": "/personal-website/static/media/youngEnterprise.6cc955ccf756f0921d8b.jpg",
+    "static/media/warwick_road.jpeg": "/personal-website/static/media/warwick_road.699704a9c680441e751f.jpeg",
+    "static/media/hyde_park3.jpeg": "/personal-website/static/media/hyde_park3.934ff634e2d0baceb39b.jpeg",
+    "static/media/hyde_park2.jpeg": "/personal-website/static/media/hyde_park2.18533d116b58363126c1.jpeg",
     "static/media/neuralNet.jpg": "/personal-website/static/media/neuralNet.e0ea953ac2144e500e7b.jpg",
+    "static/media/hyde_park1.jpeg": "/personal-website/static/media/hyde_park1.5a839e58bf57c418a22e.jpeg",
     "static/media/tewke.png": "/personal-website/static/media/tewke.9f2ba59fb803135a5463.png",
     "static/media/cv_Tejas_Dandawate.pdf": "/personal-website/static/media/cv_Tejas_Dandawate.598033db097d3223c63a.pdf",
     "static/media/compiler.jpg": "/personal-website/static/media/compiler.aebb5898e9121f92cf84.jpg",
@@ -17,12 +21,12 @@
     "static/media/oxfam.jpg": "/personal-website/static/media/oxfam.e23993570c2840e5a295.jpg",
     "static/media/keyboard.jpg": "/personal-website/static/media/keyboard.c9293a2d5c10a4fb046e.jpg",
     "index.html": "/personal-website/index.html",
-    "main.4f751e17.css.map": "/personal-website/static/css/main.4f751e17.css.map",
-    "main.2e30d013.js.map": "/personal-website/static/js/main.2e30d013.js.map",
-    "787.8dcba52f.chunk.js.map": "/personal-website/static/js/787.8dcba52f.chunk.js.map"
+    "main.f7ebd119.css.map": "/personal-website/static/css/main.f7ebd119.css.map",
+    "main.f14b72a3.js.map": "/personal-website/static/js/main.f14b72a3.js.map",
+    "592.61afcd48.chunk.js.map": "/personal-website/static/js/592.61afcd48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f751e17.css",
-    "static/js/main.2e30d013.js"
+    "static/css/main.f7ebd119.css",
+    "static/js/main.f14b72a3.js"
   ]
 }
