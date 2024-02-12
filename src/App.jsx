@@ -1,6 +1,6 @@
 
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import PhotographyPortfolio from './components/photography/PhotographyPortfolio'; // Import your photography portfolio component
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
+import PhotographyPortfolio from './components/photography/PhotographyPortfolio';
 import './App.css';
 import Navbar from './components/navbar/Navbar';
 import Landing from './components/sections/landing/Landing';
@@ -11,7 +11,7 @@ import Contact from './components/sections/contact/Contact';
 
 function App() {
   return (
-    <Router basename="/personal-website/">
+    <Router baseName="personal-website">
       <div className="App">
         <Routes />
       </div>
@@ -20,8 +20,6 @@ function App() {
 }
 
 function Routes() {
-  // const location = useLocation();
-
   return (
     <Switch>
       <Route path="/photography-portfolio">

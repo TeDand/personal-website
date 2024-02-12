@@ -24,7 +24,7 @@ const Landing = () => {
                     </a>
                     <br />
                     <br />
-                    <a className='Link' href="/personal-website/photography-portfolio">
+                    <a className='Link' href="/personal-website/#/photography-portfolio">
                         <CameraEmoji /> View my photgraphy portfolio
                     </a>
                 </p>
